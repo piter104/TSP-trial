@@ -1,0 +1,8 @@
+﻿  aco_opti.cpp
+C:\Users\piotr\OneDrive\Pulpit\TSP-master\TSP\aco_opti.cpp(10,16): warning C4244: "inicjowanie": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+C:\Users\piotr\OneDrive\Pulpit\TSP-master\TSP\aco_opti.cpp(10,16): warning C4244:         with
+C:\Users\piotr\OneDrive\Pulpit\TSP-master\TSP\aco_opti.cpp(10,16): warning C4244:         [
+C:\Users\piotr\OneDrive\Pulpit\TSP-master\TSP\aco_opti.cpp(10,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\piotr\OneDrive\Pulpit\TSP-master\TSP\aco_opti.cpp(10,16): warning C4244:         ]
+C:\Users\piotr\OneDrive\Pulpit\TSP-master\TSP\aco_opti.cpp(12,9): warning C4101: "numbers": lokalna zmienna, do której nie istnieje odwołanie
+  TSP.vcxproj -> C:\Users\piotr\OneDrive\Pulpit\TSP-master\TSP\Debug\TSP.exe
